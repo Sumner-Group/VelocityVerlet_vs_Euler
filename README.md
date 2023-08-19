@@ -8,4 +8,4 @@ The code will generate a molecular trajectory of a homonuclear diatomic molecule
 **Do you want to cite this work?**
 ---
 
-[![DOI](https://zenodo.org/badge/680637324.svg)](https://zenodo.org/badge/10.5281/zenodo.8266379/680637324)
+[![DOI](https://zenodo.org/badge/680637324.svg)](https://zenodo.org/badge/10.5281/zenodo.8266387/680637324)
